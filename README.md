@@ -1,4 +1,4 @@
-# Computer Science
+# 🎓 Computer Science
 
 Welcome to my notes for the MSc in [Computer Science](https://corsi.unige.it/en/corsi/10852) @ [UniGe](https://www.unige.it)
 
