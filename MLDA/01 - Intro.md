@@ -23,7 +23,7 @@ $$
 |y-\hat{y}|^2
 $$
 
-> with square dist. the function is continuos and differencial everywhere
+> with square dist. the function is continuos and differential everywhere
 
 > Optimal error function does not exists; it depends based on current problem
 
