@@ -114,3 +114,23 @@ Linux **initialization system** and **service manager**
 - `systemctl [start | stop | status] <unit_name>`: 
 
 `journalctl` utility for querying and display logs from journaled (logging service of systemd)
+
+# Networking
+
+`man ip`
+
+for statically configure network [`netplan`](https://www.netplan.io)
+
+# SSH 
+You know the drill
+
+generate key pair `ssh-keygen`
+copy key on server `ssh-copy-id`
+
+# Shell Scripting
+
+`#!/bin/bash`
+
+> All variables `export`
+
+[help](https://github.com/techarkit/shell-scripting-tutorial)
