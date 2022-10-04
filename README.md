@@ -6,6 +6,7 @@ Welcome to my notes for the MSc in [Computer Science](https://corsi.unige.it/en/
 
 ### First Semester
 
+- [Distributed Computing](DC/README.md)
 - [Machine Learning and Data Analysis](MLDA/README.md)
 - [Software Systems and Design Modeling](SSDM/README.md)
 - [Virtualization and Cloud Computing](VCC/README.md)
