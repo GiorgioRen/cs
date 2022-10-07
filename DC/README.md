@@ -13,6 +13,7 @@
 
 Lessons:
 - [01 - Introduction](01%20-%20Intro%20DC)
+- [02 - Paxos](02%20-%20Consensus.md)
 
 ---
 

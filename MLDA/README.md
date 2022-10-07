@@ -16,6 +16,7 @@
 ## Notes
 
 - [01 - Introduction](01%20-%20Intro.md)
+- [02 - Data Science](02%20-%20Data%20Science.md)
 
 ---
 [↩ home](/README.md)
