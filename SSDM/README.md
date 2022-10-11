@@ -19,7 +19,8 @@
 - [02 - Software Architectures and Their Design](02%20-%20Software%20Architecture%20&%20Design.md)
 - [03.1 - Project](03.1%20-%20Project.md)
 - [03 - Requirements Specification](03%20-%20Requirements%20Specification.md)
-- [04 - Design Patterns](04%20-%20Design%20Patterns.md)
+- [04 - Patterns](04%20-%20Patterns.md)
+- [05](05%20-%20Deployment%20Patterns.md)
 
 ---
 [↩ home](/README.md)
