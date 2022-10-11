@@ -12,7 +12,7 @@
 ---
 
 Lessons:
-- [01 - Introduction to Virutalization](01%20-%20Introduction%20to%20Virtualization)
+- [01 - Introduction to Virutalization](01%20-%20Introduction%20to%20Virtualization.md)
 - [02 - Leenucs Basics](02%20-%20Linux%20Basics.md)
 - [03 - Virtual Storage](03%20-%20Virtual%20Storage.md)
 
