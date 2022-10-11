@@ -11,6 +11,8 @@ Messages:
 - leader logs entries
 - heartbeats are sent to followers, messages telling the leader node is still alive
 
-## Leader election
+**Log compaction**: save state for easy recovery
+- stored in log
+- stored externally
+- stored externally using snapshot
 
-## Log replecation
