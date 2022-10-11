@@ -1,0 +1,11 @@
+# Architectural Patterns
+- name
+- problem
+- context
+- forces
+- solution
+- resulting context
+- examples
+- rationale
+- related patterns
+- known uses

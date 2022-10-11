@@ -99,4 +99,22 @@ sw architects are helped:
 - internal requirements
 - issues
 
+### Patterns
+- rough solutions to recurring problems
+- sort of a schema to the solution
+- needs personalization for it to work
+- different patterns depending on granularity and purpose
+
+Design Patterns
+- first and most standardized patterns for sw eng
+High-level patterns
+- architectural patterns
+
+> ⚠ Each design pattern has tradeoffs, choose wisely
+
+Basic parts of Design Pattern:
+- name
+- problem
+- solution
+- consequences n tradeoffs
 
