@@ -59,7 +59,7 @@ Cons:
 Data access + business logic = (domain) model
 One model + multiple UIs
 
-![[SCR-20221011-eid.png]]
+![](src/SCR-20221011-eid.png)
 
 ### MVC Solution
 **Model** encapsulate core data and functionality, it does application specific operation on data

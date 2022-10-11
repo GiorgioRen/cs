@@ -37,7 +37,7 @@ Non Functional
 
 > Requirements have strong impact on design
 
-![[SCR-20221010-hj4.png]]
+![](src/SCR-20221010-hj4.png)
 
 ## Usability requirements
 
