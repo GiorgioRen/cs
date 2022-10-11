@@ -32,17 +32,17 @@ example: VMWare VM hdds
 - has O(1) lookup
 - easy to distribute via *sharding*
 
-![](Screen%20Shot%202022-10-11%20at%2016.56.40.png)
+![](src/Screen%20Shot%202022-10-11%20at%2016.56.40.png)
 
 ### Sharding
 sharding divides data depending on the key value and distributes keys in different nodes
 
-![](SCR-20221011-nmo.png)
+![](src/SCR-20221011-nmo.png)
 
 ### Simulated hierarchical
 fakes an hierarchical data structure by mapping the structures onto a flat key space
 
-![](SCR-20221011-nos.png)
+![](src/SCR-20221011-nos.png)
 
 ## Storage classification
 
@@ -57,24 +57,24 @@ fakes an hierarchical data structure by mapping the structures onto a flat key s
 - **scale out**: capacity increases by adding servers
 
 ### iSCSI – internet small computer systems interface
-![](Screen%20Shot%202022-10-11%20at%2017.10.17.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.10.17.png)
 -
 -
 
 ### Network File System
-![](Screen%20Shot%202022-10-11%20at%2017.10.44.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.10.44.png)
 -
 -
 
 ### GusterFS
-![](Screen%20Shot%202022-10-11%20at%2017.14.42.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.14.42.png)
 -
 -
 GusterFS is a distributed storage solution
 builds a filesystem out of *bricks* (directories on servers)
 
-![](Screen%20Shot%202022-10-11%20at%2017.17.10.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.17.10.png)
 
-![](Screen%20Shot%202022-10-11%20at%2017.17.24.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.17.24.png)
 
-![](Screen%20Shot%202022-10-11%20at%2017.17.40.png)
+![](src/Screen%20Shot%202022-10-11%20at%2017.17.40.png)
