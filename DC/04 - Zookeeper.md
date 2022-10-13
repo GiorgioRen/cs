@@ -1,5 +1,11 @@
 # Zookeeper
-Coordination service
+
+## What is Zookeeper?
+
+> *ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.*
+> *All of these kinds of services are used in some form or another by distributed applications.*
+
+So it's a **coordination service** for:
 - group membership
 - leader election
 - dynamic config
