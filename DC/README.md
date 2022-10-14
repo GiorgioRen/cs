@@ -13,7 +13,7 @@
 
 Lessons:
 - [01 - Introduction](01%20-%20Intro%20DC)
-- [02 - Raft](02%20-%20Raft.md)
+- [03 - Raft](03%20-%20Raft.md)
 - [04 - Zookeeper](04%20-%20Zookeeper.md)
 - [05 - Google Cloud Spanner](05%20-%20Google%20Cloud%20Spanner.md)
 
