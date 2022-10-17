@@ -22,6 +22,7 @@
 - [04 - Patterns](04%20-%20Patterns.md)
 - [05 - Deployment Patterns](05%20-%20Deployment%20Patterns.md)
 - [06 - Attribute Driven Design Method (ADD meth)](06%20-%20Attribute%20Driven%20Design%20Method%20(ADD%20meth).md)
+- [07 - Use Cases & Goal-oriented requirements](07%20-%20Use%20Cases%20&%20Goal-oriented%20requirements.md)
 
 ---
 [↩ home](/README.md)
