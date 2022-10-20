@@ -126,4 +126,6 @@ many methods:
 **requirement document** is the **base of agreement** between customer and contractor
 relevant also for **estimation of time, costs, risks and schedules** for the sw system
 
-> Requirement specification is the starting point for designing
+> Requirement specification is the design starting point
+
+
