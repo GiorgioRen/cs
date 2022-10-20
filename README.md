@@ -10,6 +10,7 @@ Welcome to my notes for the MSc in [Computer Science](https://corsi.unige.it/en/
 - [Machine Learning and Data Analysis](MLDA/README.md)
 - [Software Systems and Design Modeling](SSDM/README.md)
 - [Virtualization and Cloud Computing](VCC/README.md)
+- [Data Protection 'n Privacy](DPP/README.md)
 
 ---
 
